@@ -184,6 +184,9 @@ header {
   cursor: pointer;
   scale: 1.1;
 }
+.add_more:active {
+  scale: 1;
+}
 .icons_container {
   display: flex;
   gap: 0.7em;
